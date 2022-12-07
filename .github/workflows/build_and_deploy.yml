@@ -79,3 +79,4 @@ jobs:
           git commit -m "Lastest javadoc on successful build $GITHUB_RUN_NUMBER auto-pushed to gh-pages"
           git push -fq origin gh-pages
       
+      
